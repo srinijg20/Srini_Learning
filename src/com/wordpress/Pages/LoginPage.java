@@ -15,8 +15,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
  */
 public class LoginPage 
 
-{
-	
+{	
 	WebDriver Driver;
 	//By Username= By.xpath("//input[cointains(text(),'usernameOrEmail']");
 	By User1=By.id("userid");
