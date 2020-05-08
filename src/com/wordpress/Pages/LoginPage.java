@@ -16,7 +16,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class LoginPage 
 
 {
-	//https://wordpress.com/log-in
 	
 	WebDriver Driver;
 	//By Username= By.xpath("//input[cointains(text(),'usernameOrEmail']");
