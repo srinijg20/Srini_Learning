@@ -1,0 +1,11 @@
+GeckoDriver=C:\\Users\\Public\\Downloads\\Eclipse\\geckodriver-v0.23.0-win64\\geckodriver.exe
+IEDriver=C:\\Users\\Public\\Downloads\\Eclipse\\IEDriverServer_x64_3.14.0\\IEDriverServer.exe"
+ChromeDriver=C:\\Users\\Public\\Downloads\\Eclipse\\chromedriver_win32\\chromedriver.exe
+BaseURL=https://cloud-ua1.statestr.com/epw/
+EPW_USERNAME=P564497
+EPW_PWD=Bagya@1980
+CLIENT_ACCT=//*[contains(text(),'VNB2-USGAAP-BL')]
+REGION=//div[contains(text(),'QEPW')]
+PG=//div[contains(text(),'QEPW_23_PRICEGROUP')]
+CLIENT=VNVK
+FUND=VNV6
